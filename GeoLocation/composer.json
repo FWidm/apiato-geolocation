@@ -1,0 +1,16 @@
+{
+  "name": "fwidm/geolocation",
+  "description": "Apiato Container that logs geolocationrequests.",
+  "type": "apiato-container",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "support": {
+    "source": "link/to/container/repository/"
+  },
+  "authors": [
+    {
+      "name": "Fabian Widmann",
+      "email": "fabian.widmann@gmail.com"
+    }
+  ],
+}
