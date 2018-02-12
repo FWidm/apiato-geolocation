@@ -4,9 +4,6 @@
   "type": "apiato-container",
   "minimum-stability": "stable",
   "license": "MIT",
-  "support": {
-    "source": "link/to/container/repository/"
-  },
   "authors": [
     {
       "name": "Fabian Widmann",
