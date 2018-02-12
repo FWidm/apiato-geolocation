@@ -9,5 +9,11 @@
       "name": "Fabian Widmann",
       "email": "fabian.widmann@gmail.com"
     }
-  ]
+  ],
+  "extra": {
+    "apiato": {
+      "container": {
+        "name": "GeoLocation"
+      }
+    }
 }
